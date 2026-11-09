@@ -40,9 +40,9 @@ The program evaluates an expression by scanning it from left to right.
 | Postfix Expression | Result |
 |---|---:|
 | `53+` | 8 |
-| `27-` | 5 |
+| `27-` | -5 |
 | `234*+` | 14 |
-| `623+-382/+*2^3+` | 49 |
+| `623+-382/+*2^3+` | 52 |
 | `23^` | 8 |
 | `51^` | 5 |
 | `50^` | 1 |
