@@ -58,7 +58,7 @@ The program evaluates an expression by scanning it from left to right.
 - Expressions must be valid postfix expressions.
 - Division uses integer arithmetic.
 - Division by zero is not handled.
-- Exponentiation supports non-negative integer exponents.
+- Exponentiation doesn't support non-negative integer exponents.
 
 ## Compilation and Execution
 
